@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ExoPlayer Dudnik</string>
+    <string name="link_to_video" translatable="false">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4</string>
+    <string name="downloading_error">Error occurred while downloading video</string>
 </resources>
