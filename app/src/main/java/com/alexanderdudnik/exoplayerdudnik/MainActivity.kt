@@ -34,9 +34,7 @@ class MainActivity : AppCompatActivity() {
     private var lastAcceleration = 0f
     //Gyroscope
     private var sensorTimestamp: Long = 0
-    private var accelerationX = 0f
     private var lastRotationX = 0f
-    private var accelerationZ = 0f
     private var lastRotationZ = 0f
 
     private var locationListener = object: LocationListener{
